@@ -38,4 +38,6 @@ We will try to select speakers two-three weeks before an event. Sometimes there 
 ## I have more questions about submitting talks, what should I do?
 Reach out to [@ilyausorov]( https://github.com/ilyausorov ) or [@bpolonia]( https://github.com/bpolonia ) and we'll be happy to chat! Or just go ahead and make that talk submission issue and we'll chat with you there!
 
+Credit is due to the [@brooklynjs]( https://github.com/brooklynjs/brooklynjs.github.io ) talk submissions repo -- you guys run a great process and we were inspired by it, and so copied a few things over that just made sense. Go speak at their events too folks!
+
 [link-to-github-issue]: https://github.com/react-native-nyc/meetup-talk-submissions/issues/new?assignees=ilyausorov&labels=&template=talk-submission-template.md&title=%5BYour+Talk+Title+Goes+Here%5D

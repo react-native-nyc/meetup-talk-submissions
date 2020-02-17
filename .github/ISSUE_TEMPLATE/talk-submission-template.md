@@ -15,6 +15,8 @@ assignees: ilyausorov
 
 **Name**:
 
+**Brief Bio (max 100 words):**
+
 **Twitter Handle (optional)**:
 
 **Website / Portfolio (optional):**

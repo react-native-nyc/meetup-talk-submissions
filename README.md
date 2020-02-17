@@ -33,7 +33,7 @@ Let's try to keep talks under 20 mins. We won't strike you down if you go over, 
 _*For example, if your company is hiring for React Native devs, or if you're looking for a new opportunity, or anything in between (that's appropriate!)_
 
 ## When are speakers chosen?
-We will try to select speakers two-three weeks before an event. Sometimes there may be last minute drop outs, if which case we may contact you on short notice about subbing in.
+We will try to select ~3 speakers about two-three weeks before an event. Sometimes there may be last minute drop outs, if which case we may contact you on short notice about subbing in.
 
 ## I have more questions about submitting talks, what should I do?
 Reach out to [@ilyausorov]( https://github.com/ilyausorov ) or [@bpolonia]( https://github.com/bpolonia ) and we'll be happy to chat! Or just go ahead and make that talk submission issue and we'll chat with you there!
